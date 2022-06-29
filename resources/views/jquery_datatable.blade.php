@@ -34,7 +34,7 @@
         <thead>
             <tr>
                 <th>SL NO.</th>
-    
+
                 <th>NAME</th>
                 <th>PHONE</th>
                 <th>EMAIL</th>
